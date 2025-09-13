@@ -10,8 +10,5 @@
     dsdsdsd
     dddd
     dds
-    dsddsdds
-    session_abort
-    sasa
 </body>
 </html>
